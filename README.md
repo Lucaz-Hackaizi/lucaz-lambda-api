@@ -59,16 +59,6 @@ Before you start working with this project, make sure you have the following ins
 -   [Node.js](https://nodejs.org/en/download/) (version 18.17.1 or higher)
 -   [npm](https://www.npmjs.com/get-npm) (Node.js package manager, version 9.6.7 or higher
 
-### Installation
-
-To get started, you'll need to install the following packages as development dependencies
-
-To Do...
-
-```bash
-npm install ...
-```
-
 ### Put the apiKey
 
 ```js
@@ -82,4 +72,3 @@ The GPT-3.5 API endpoint is used to interact with the izipay assistant for gener
 ## Conclusion
 
 This concludes the API documentation for integrating the izipay assistant using the GPT-3.5 API. You can now utilize this integration to provide accurate and relevant responses to user inquiries regarding izipay's products and services.
-
